@@ -4,6 +4,8 @@
 
 -Depois, copie os arquivos do repositório e abra com a sua IDE
 
+-Na IDE, na pasta do projeto, vá ao arquivo .env, da linha 11 a 16, configure com os dados do SEU banco, principalmente DB_BATABASE = voch
+
 -No terminal da IDE, rode os seguintes comandos:
 
 -php artisan migrate (Para criar as tabelas do banco)
