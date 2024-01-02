@@ -1,0 +1,13 @@
+#Como rodar:
+
+-Crie um Banco de Dados chamado voch
+
+-Depois, copie os arquivos do repositório e abra com a sua IDE
+
+-No terminal da IDE, rode os seguintes comandos:
+
+-php artisan migrate (Para criar as tabelas do banco)
+
+-php artisan db:seed (Acrescentar os dados no banco, dados "aleatórios")
+
+-php artisan serve (Para rodar a aplicação na web)
